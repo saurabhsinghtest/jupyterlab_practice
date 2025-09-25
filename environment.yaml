@@ -1,0 +1,14 @@
+name: jlab-practice
+channels:
+  - defaults
+dependencies:
+  - nodejs
+  - jupyterlab
+  - numpy
+  - python=3.11
+  - matplotlib
+  - pandas
+  - ipykernel
+  - ipywidgets
+  - pip
+prefix: C:\Users\saura\anaconda3\envs\jlab-practice
